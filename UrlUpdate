@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.17",
-  "ReleaseNotes": "Atualização de payload!",
+  "Version": "1.0.18",
+  "ReleaseNotes": "Adicionado CheckUser!",
   "UrlUpdate": "https://clienteconnect.github.io/UrlUpdate",
   "Sms": "https://clienteconnect.github.io/UrlSms",
   "EmailFeedback": "vpslk@gmail.com",
