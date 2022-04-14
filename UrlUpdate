@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.18",
+  "Version": "1.0.19",
   "ReleaseNotes": "Adicionado CheckUser!",
   "UrlUpdate": "https://clienteconnect.github.io/UrlUpdate",
   "Sms": "https://clienteconnect.github.io/UrlSms",
@@ -10,19 +10,19 @@
   "FormatCheck": "yyyymmdd",
   "Udp": [
     {
+      "Porta": "7100"
+    },
+    {
       "Porta": "7300"
     },
     {
-      "Porta": "7400"
+      "Porta": "7100"
     },
     {
-      "Porta": "7500"
+      "Porta": "7300"
     },
     {
-      "Porta": "7600"
-    },
-    {
-      "Porta": "7700"
+      "Porta": "7100"
     }
   ],
   "Servers": [
